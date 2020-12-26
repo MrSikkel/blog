@@ -51,7 +51,7 @@
             .links > a {
                 color: #636b6f;
                 padding: 0 25px;
-                font-size: 13px;
+                font-size: 23px;
                 font-weight: 600;
                 letter-spacing: .1rem;
                 text-decoration: none;
@@ -81,9 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <img src="https://sun9-8.userapi.com/impg/pNT4mR7NqNR3K_A-aGfd0FwxkGGf_567FSENgQ/Eb5u0x7r0mI.jpg?size=608x1080&quality=96&proxy=1&sign=f862132706cd63ef4e95e500bd4b7d7c&type=album" height='500px' width="300px" alt="">
                 </div>
-
+<?echo("<h1>Саня нам -40</h1>")?>
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
@@ -97,5 +97,3 @@
         </div>
     </body>
 </html>
-<? 
-echo("<h1> hello dude </h1>")
